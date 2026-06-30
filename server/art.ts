@@ -103,24 +103,24 @@ export const SPECIES_ART: Record<Species, string[][]> = {
     ["            ", "  /\\    /\\  ", " ( {E}    {E} ) ", " (   ..   ) ", "  `------'~ "],
   ],
   wyvern: [
-    // Frame 0: wings spread, head up
+    // Frame 0: wings spread
     ["}       {",
      "|\\^```^/|",
      "\\ {E}' '{E} /",
-     "  \\  ~  /  ",
-     "  `--v--'  "],
+     "  \\ ~ /  ",
+     "  `--v--'"],
     // Frame 1: wings mid-beat
     ["}       {",
      "|/v```v\\|",
      "\\ {E}' '{E} /",
-     "  /  ~  \\  ",
-     "  `--v--'  "],
-    // Frame 2: wing tips shimmer
+     "  / ~ \\  ",
+     "  `--v--'"],
+    // Frame 2: shimmer
     ["~       ~",
      "|\\^```^/|",
      "\\ {E}' '{E} /",
-     "  \\  ~~  / ",
-     "  `--v--'~ "],
+     "  \\ ~~ / ",
+     "  `--v--'"],
   ],
   pikachu: [
     ["            ", "   /\\_/\\   ", "  ({E} {E})  ", "   (  ω )   ", "   (__)    "],
